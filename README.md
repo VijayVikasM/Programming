@@ -15,6 +15,11 @@ These projects aim to strengthen expertise in Python programming and focus on ke
 1. **Project 1: Basic Calculator**  
    Learn the fundamentals of functions and arithmetic operations.
 
+   There are three versions of calculators in this project
+      01. Basic Arithemtic level calculator (based on user input in terminal (No GUI))
+      02. Basic Arithemtic level calculator (With GUI)
+      03. Basic Scientific Calculator (With GUI)
+
 2. **Project 2: Temperature Converter**  
    Create a tool to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
